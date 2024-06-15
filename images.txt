@@ -1,5 +1,17 @@
 nginx
+#supabase相关镜像
 kong
+supabase/realtime
+supabase/storage-api
+supabase/edge-runtime
+supabase/studio
+supabase/gotrue
+supabase/postgres-meta
+supabase/postgres
+supabase/logflare
+postgrest/postgrest
+timberio/vector
+darthsim/imgproxy
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
