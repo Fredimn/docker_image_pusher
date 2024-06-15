@@ -3,7 +3,7 @@ nginx
 kong
 supabase/realtime
 supabase/storage-api
-supabase/edge-runtime
+supabase/edge-runtime:v1.43.2
 supabase/studio
 supabase/gotrue
 supabase/postgres-meta
